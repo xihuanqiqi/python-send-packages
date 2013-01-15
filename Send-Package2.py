@@ -10,6 +10,7 @@ if __name__ == "__main__":
 	url = 'game.f4ck.net'
 	path = "/login2.php"
 	full_path = "http://"+url+path
+
 	
 	for tmpLine in inStream:
 		try:
